@@ -1,6 +1,7 @@
 # 
 Data:
-I will work with the publicly available Lending Club data on Kaggle https://www.kaggle.com/wordsforthewise/lending-club
+I will work with the publicly available Lending Club data on Kaggle. The raw data contains 150 fields for each loan
+originated. https://www.kaggle.com/wordsforthewise/lending-club
 
 The objective of this project is to build a predictive model that can predict the loan status (whether or not a loan will be fully paid or charged off), since a loan default will result in a loss of both principal and interest.
 
