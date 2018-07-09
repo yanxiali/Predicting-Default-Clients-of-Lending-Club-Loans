@@ -1,5 +1,6 @@
 # Predicting-Default-Clients-of-Lending-Club-Loans
 
+**Description**:
 In this project, I worked with the public LendingClub data, with a size of ~1.8 GB, containing 1.6 millions of loans from 2007 to 2017, each of which has 150 associated features. My goal was to build a predictive model that can predict whether or not a loan will be fully paid or charged off, in order to minimize the risks of loan defaults for the company. I also would like to find the most important factors in making decisions about lending.
 
 I analyzed useful features and investigated the correlations among the features and between the features and the target variable. I used K-S tests to check whether the features have notably different distributions for the “fully paid” and “charged off” loans. According to the Pearson correlations between the features and the target variable, the most important variables for predicting charge-offs include the loan interest rate, loan term, the FICO score, and debt-to-income ratio. From feature importance analysis using the random forest classifier, I found that the most important features are interest rate and debt-to-income ratio.
